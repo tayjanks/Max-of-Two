@@ -3,3 +3,6 @@ let y = 2
 
 // Write your code below this line.
 
+if (x>y){console.log(x);};
+if (y>x){console.log(y);};
+if (x === y){console.log("The values are identical");};

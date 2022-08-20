@@ -1,5 +1,5 @@
-let x = 60
-let y = 5
+let x = 65
+let y = 65
 
 // Write your code below this line.
 
